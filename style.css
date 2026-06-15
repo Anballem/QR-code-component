@@ -28,9 +28,9 @@ body {
   display: block;
 }
 
-.card h2 {
-  font-size: 15px;
-  font-weight: 200;
+.card h1 {
+  font-size: 20px;
+  font-weight: 600;
   color: #1f2937;
   margin: 0 0 10px;
   line-height: 1.4;
@@ -41,10 +41,4 @@ body {
   color: #6b7280;
   margin: 0;
   line-height: 1.6;
-}
-.footer {
-  text-align: center;
-  padding: 12px 0;
-  font-size: 12px;
-  color: #6b7280;
 }
