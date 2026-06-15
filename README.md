@@ -23,3 +23,4 @@ There are no build tools or dependencies required.
 
 - Challenge: Frontend Mentor (QR Code Component)
 - Attribution in the footer of `index.html`
+# QR-code-component
